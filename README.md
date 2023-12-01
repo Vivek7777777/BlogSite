@@ -1,5 +1,4 @@
 # BlogSite
-Blog website
 
 
 npm i
